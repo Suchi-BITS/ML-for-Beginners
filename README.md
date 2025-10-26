@@ -84,26 +84,3 @@ Each folder contains a Jupyter Notebook (`.ipynb`) explaining the algorithm with
 jupyter notebook
 ```
 Open the `.ipynb` file from the respective algorithm folder.
-
-## 🤝 Contributing
-Contributions are welcome! If you find a bug or want to add an improvement, follow these steps:
-1. Fork this repository.
-2. Create a new branch (`feature-xyz`).
-3. Commit your changes.
-4. Push the branch and create a Pull Request.
-
-## 🔗 Connect with Me
-[![Portfolio](https://img.shields.io/badge/Portfolio-sureshgongali.netlify.app-darkgreen?style=for-the-badge)](https://sureshgongali.netlify.app/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sureshgongali/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/SURESH745)  
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://youtube.com/@sureshgongaliinnovations)  
-📧 Email: ssuresh8337@gmail.com  
-📱 [WhatsApp: +91 7671903261](https://wa.me/917671903261)  
-
----
-
-🔹 **Author:** *Suresh Gongali*  
-🔹 **License:** *MIT*  
-🔹 **Contributions:** Open to pull requests & collaborations!  
-
-🚀 *"Learning is a continuous journey. Keep experimenting and innovating!"*
