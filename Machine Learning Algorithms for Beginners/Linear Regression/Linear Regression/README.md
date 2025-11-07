@@ -1,10 +1,5 @@
 # Machine Learning Algorithms for Beginners
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Beginner%20to%20Advanced-blue)
-![Python](https://img.shields.io/badge/Python-3.12-blue)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0.24-orange)
-![Status](https://img.shields.io/badge/Status-Active-green)
-
 ## 📌 Overview
 This repository is designed for beginners to gain a solid foundation in Machine Learning (ML). It provides step-by-step implementations of fundamental ML algorithms, theoretical explanations, and real-world applications.
 
@@ -80,3 +75,4 @@ Contributions are welcome! If you find a bug or want to add an improvement, foll
 🔹 **Contributions:** Open to pull requests & collaborations!  
 
 🚀 *"Learning is a continuous journey. Keep experimenting and innovating!"*
+
