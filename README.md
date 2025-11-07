@@ -1,9 +1,5 @@
 # Machine Learning Algorithms for Beginners
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Beginner%20to%20Advanced-blue)
-![Python](https://img.shields.io/badge/Python-3.12-blue)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0.24-orange)
-![Status](https://img.shields.io/badge/Status-Active-green)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="100" height="100"/>
